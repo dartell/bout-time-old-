@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/user/public_html/
+    - /bin/cp index.html $C:\Users\Darius\bu-webdev\bout-time\index.html
+    - /bin/cp style.css $C:\Users\Darius\bu-webdev\bout-time\css\style.css
